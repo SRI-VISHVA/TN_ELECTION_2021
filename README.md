@@ -3,7 +3,7 @@
 
 ## TN ELECTION BLOCKCHAIN APPLICATION 2021
 
-## This project was done by Sri Vishwa E and Niharika Gupta for the Blockchain-CSE1003 course
+## This project was done by Sri Vishva E and Niharika Gupta for the Blockchain-CSE1003 course
 
 ### Abstract
 Smart contracts are trackable and irreversible applications that execute in a decentralized environment (e.g., blockchain). Once the smart contract has been deployed nobody can edit the code or change its execution behavior. Smart contract execution guarantees to bind parties together to an agreement as written. This creates a new powerful type of trust relationship that does not rely on a single party. Smart contracts enable better management for realizing and administering digital agreements because they are self-verifying and self-executing. <br/>
