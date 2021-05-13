@@ -1,6 +1,8 @@
 # E-Voting Application using smart contracts 
 ## A blockchain dapp (decentralized application)
 
+## TN ELECTION BLOCKCHAIN APPLICATION 2021
+
 ## This project was done by Sri Vishwa E and Niharika Gupta for the Blockchain-CSE1003 course
 
 ### Abstract
